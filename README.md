@@ -1,5 +1,3 @@
-# Michael
-
 **IoT Data Engineer & Open-Source Advocate**
 
 Building real-time environmental monitoring systems and ML-driven forecasts.
